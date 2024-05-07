@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -O2 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/atmoMain.dir/scripts/main.cpp.o CMakeFiles/atmoMain.dir/src/GNSSlibrary/utility.cpp.o CMakeFiles/atmoMain.dir/src/GNSSlibrary/atmo.cpp.o -o atmoMain  libGNSSlibrary.a -larmadillo 

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libGNSSlibrary.a CMakeFiles/GNSSlibrary.dir/src/GNSSlibrary/utility.cpp.o CMakeFiles/GNSSlibrary.dir/src/GNSSlibrary/atmo.cpp.o CMakeFiles/GNSSlibrary.dir/src/GNSSlibrary/broadcastEph.cpp.o CMakeFiles/GNSSlibrary.dir/src/GNSSlibrary/coresky.cpp.o CMakeFiles/GNSSlibrary.dir/src/GNSSlibrary/rinex3Nav.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libGNSSlibrary.a

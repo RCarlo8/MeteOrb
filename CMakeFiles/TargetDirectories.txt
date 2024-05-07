@@ -1,0 +1,7 @@
+/Users/carlocolli/Desktop/projects/Tesi/CMakeFiles/GNSSlibrary.dir
+/Users/carlocolli/Desktop/projects/Tesi/CMakeFiles/velocityTest.dir
+/Users/carlocolli/Desktop/projects/Tesi/CMakeFiles/rinex.dir
+/Users/carlocolli/Desktop/projects/Tesi/CMakeFiles/preciseEph.dir
+/Users/carlocolli/Desktop/projects/Tesi/CMakeFiles/atmoMain.dir
+/Users/carlocolli/Desktop/projects/Tesi/CMakeFiles/edit_cache.dir
+/Users/carlocolli/Desktop/projects/Tesi/CMakeFiles/rebuild_cache.dir
